@@ -2,6 +2,8 @@
 #include <vector>
 
 int main() {
+
+    std::cout << "The change" << std::endl;
     // Create a vector of integers
     std::vector<int> numbers = {1, 2, 3, 4, 5};
 
